@@ -2,4 +2,5 @@
 This line is a new line
 
 Made a change locally!
-dding another line for history.
+Adding another line for history.
+Final line for log test.
